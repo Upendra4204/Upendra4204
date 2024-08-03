@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Upendra_4204
 - 👀 I’m interested in Data Scientist
-- 🌱 I have completed my Data science course
+- 🌱 Working as a software trainer for a complany in the field of data science and looking forward inot IT industry
 - 💞️ I’m looking to collaborate as a data scientist
 - 📫 How to reach me ugummilla@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: HE
+- ⚡ Fun fact: There always when no facts around
 
 <!---
 Upendra4204/Upendra4204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
