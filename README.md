@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Upendra_4204
 - 👀 I’m interested in Data Scientist
 - 🌱 Working as a software trainer for a complany in the field of data science and looking forward into IT industry
-- Experience around 9 months in as a Software Trainer
+- 😄 Experience around 9 months in as a Software Trainer
 - 💞️ I’m looking to collaborate as a data scientist
 - 📫 How to reach me ugummilla@gmail.com 
 - 😄 Pronouns: HE
